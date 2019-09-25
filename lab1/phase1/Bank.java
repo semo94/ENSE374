@@ -1,4 +1,4 @@
-class Bank{
+class Bank {
     public static void main(String[] args) {
         // initiate two accounts
         SavingAccount saver1 = new SavingAccount(2000);
