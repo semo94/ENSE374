@@ -5,10 +5,10 @@ Lab assignments for the Software Engineering Management class
 *To run this program, open your terminal and type the following commands:*
 
 **From within phase1 directory**
-![Phase 1 Test](https://github.com/semo94/ENSE374/blob/master/lab1/phase1/test.png)
+![Phase 1 Test](https://github.com/semo94/ENSE374/blob/master/phase1/test.png)
 
 **From within phase2 directory**
-![Phase 2 Test](https://github.com/semo94/ENSE374/blob/master/lab1/phase2/test.png)
+![Phase 2 Test](https://github.com/semo94/ENSE374/blob/master/phase2/test.png)
 
 ## Discussion:
 
