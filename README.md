@@ -1,7 +1,7 @@
-# ENSE374
+# Lab1 Assignment
 Lab assignments for the Software Engineering Management class
 
-## Lab1 Assignment
+## Getting Started
 *To run this program, open your terminal and type the following commands:*
 
 **From within phase1 directory**
